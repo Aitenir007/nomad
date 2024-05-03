@@ -16,15 +16,23 @@ const Student = () => {
     return (
         <section className={"student"}>
             <div className="container">
-                <img src={`../${student.img}`} alt=""/>
-                <p>
-                    {
-                        student.name
-                    }
-                </p>
-                <p>
-                    email: {student.rating}
-                </p>
+                <div className="student__card">
+                    <img className='student__card-img' src={`../${student.img}`} alt=""/>
+                    <div className="student__card-info">
+                        <p className='student-name'>
+                            name: {student.name}
+                        </p>
+                        <p className='student-rating'>
+                            rating: {student.rating}
+                        </p>
+                        <p className='student-faculty'>
+                            faculty: {student.faculty}
+                        </p>
+                        <p className='student-line'>
+                            line: {student.line}
+                        </p>
+                    </div>
+                </div>
             </div>
         </section>
     );

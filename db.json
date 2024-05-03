@@ -2,57 +2,57 @@
     "students": [
         {
             "id": 1,
-            "name": "Dilnaz",
+            "name": "Erbol",
             "line": "It developer data",
             "faculty": "information technology for business",
-            "rating": 6,
+            "rating": 2,
             "gender": "woman",
-            "img": "./images/Dilnaz.jpg"
+            "img": "./images/erbo"
         },
         {
             "id": 2,
-            "name": "Nurmuhamed",
+            "name": "Aitenir",
             "line": "It Backend data",
             "faculty": "information technology for business",
-            "rating": 40,
+            "rating": 16,
             "gender": "man",
-            "img": "./images/Nur.jpg"
+            "img": "./images/aitenir.jpg"
         },
         {
             "id": 3,
-            "name": "Temir",
+            "name": "Samat",
             "line": "It Front-End data",
             "faculty": "information technology for business",
             "rating": 126,
             "gender": "man",
-            "img": "./images/Temir.jpg"
+            "img": "./images/sasa.jpg"
         },
         {
             "id": 4,
-            "name": "Ruslan",
+            "name": "Umar",
             "line": "Hr",
             "faculty": "information technology for business",
             "rating": 1,
             "gender": "man",
-            "img": "./images/Ruslan.jpg"
+            "img": "./images/umar.jpg"
         },
         {
             "id": 5,
-            "name": "Rustam",
+            "name": "Nazik",
             "line": "Pm",
             "faculty": "information technology for business",
             "rating": 125,
             "gender": "man",
-            "img": "./images/Rustam.jpg"
+            "img": "./images/nazik.jpg"
         },
         {
             "id": 6,
-            "name": "Jambolot",
+            "name": "Uzbek",
             "line": "It Mobile",
             "faculty": "information technology for business",
             "rating": 125,
             "gender": "man",
-            "img": "./images/Jambo.jpg"
+            "img": "./images/uzbek.jpg"
         }
     ]
 }
